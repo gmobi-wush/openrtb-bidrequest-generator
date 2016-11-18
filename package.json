@@ -21,8 +21,11 @@
   },
   "dependencies": {
     "commander": "^2.9.0",
+    "geoip-lite": "^1.1.8",
     "moment": "^2.16.0",
+    "network-byte-order": "^0.2.0",
     "openrtb": "^3.4.0",
+    "protocol-buffers": "^3.1.8",
     "randgen": "^0.1.0",
     "random-ip": "0.0.1",
     "random-ua": "0.0.6",
