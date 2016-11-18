@@ -1,0 +1,33 @@
+{
+  "name": "openrtb-bidrequest-generator",
+  "version": "1.0.0",
+  "description": "Generate bidrequest for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmobi-wush/openrtb-bidrequest-generator.git"
+  },
+  "author": "Wush Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmobi-wush/openrtb-bidrequest-generator/issues"
+  },
+  "homepage": "https://github.com/gmobi-wush/openrtb-bidrequest-generator#readme",
+  "engine": {
+    "node": ">=6.9.1"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "moment": "^2.16.0",
+    "openrtb": "^3.4.0",
+    "randgen": "^0.1.0",
+    "random-ip": "0.0.1",
+    "random-ua": "0.0.6",
+    "sha1": "^1.1.1",
+    "underscore": "^1.8.3",
+    "uuid": "^3.0.0"
+  }
+}
